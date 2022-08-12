@@ -11,4 +11,4 @@
 **************************************
 
 
-获取方式：[[谷歌网盘]](www.baidu.com)  &emsp;    [[百度网盘]](www.baidu.com)
+获取方式：[[谷歌网盘]](https://www.baidu.com)  &emsp;    [[百度网盘]](https://www.baidu.com)
